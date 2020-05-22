@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/c9/node-http-error.git"
+    "url": "http://github.com/c9open/node-http-error.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/c9/node-http-error/raw/master/LICENSE"
+      "url": "http://github.com/c9open/node-http-error/raw/master/LICENSE"
     }
   ],
   "devDependencies": {
